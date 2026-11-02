@@ -35,4 +35,4 @@ Godot 4.7 2D metroidvania ("Castlevania: Remnants of Darkness"), GDScript. Most 
 
 ## Remotes
 
-- Origin currently points to `https://github.com/GianImpr/Castlevania-Remnants-of-Darkness`. A personal mirror (`https://github.com/guisantana0/Castlevania-Remnants-of-Darkness`) is intended later; do not change remotes unless asked.
+- Origin now points to the personal mirror `git@github.com:guisantana0/Castlevania-Remnants-of-Darkness.git` (SSH). The original upstream `GianImpr/Castlevania-Remnants-of-Darkness` is no longer configured.
